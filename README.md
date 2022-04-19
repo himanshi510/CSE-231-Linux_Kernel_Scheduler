@@ -1,7 +1,7 @@
 
 # Linux Scheduler
 
-We change the Linux kernel scheduler in the following ways. 
+We change the Linux Kernel Scheduler in the following ways. 
 
 ## System Call
 
